@@ -1,0 +1,14 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#contenedor{
+    width: 50%;
+    margin:10% auto;
+    display: flex;
+    flex-direction: column;    
+}
+
+#contenedor h1, #contenedor h2, #contenedor h3 {
+   text-align: center;   
+}
